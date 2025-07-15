@@ -2,6 +2,8 @@
 
 This repository contains **releases only** for the ByteAgent desktop application. No source code is stored here.
 
+<img width="1920" height="1080" alt="Presentation" src="https://github.com/user-attachments/assets/bcb956f9-96d8-41c4-b7b5-5ca50192d06c" />
+
 ## Download
 
 Get the latest ByteAgent desktop application from the [Releases](https://github.com/sebastianaldrin/byte-agent-releases/releases) section.
