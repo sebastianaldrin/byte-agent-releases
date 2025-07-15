@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>PAD_Generator</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software titles. To find out more go to http://pad.asp-software.org</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+
+  <Company_Info>
+    <Company_Name>ByteAgent</Company_Name>
+    <Address_1></Address_1>
+    <Address_2></Address_2>
+    <City_Town></City_Town>
+    <State_Province></State_Province>
+    <Zip_Postal_Code></Zip_Postal_Code>
+    <Country>Worldwide</Country>
+    <Company_WebSite_URL>https://github.com/sebastianaldrin/byte-agent-releases</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>Sebastian</Author_First_Name>
+      <Author_Last_Name>Aldrin</Author_Last_Name>
+      <Author_Email>noreply@github.com</Author_Email>
+      <Contact_First_Name>Sebastian</Contact_First_Name>
+      <Contact_Last_Name>Aldrin</Contact_Last_Name>
+      <Contact_Email>noreply@github.com</Contact_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>noreply@github.com</Sales_Email>
+      <Support_Email>noreply@github.com</Support_Email>
+      <General_Email>noreply@github.com</General_Email>
+      <Sales_Phone></Sales_Phone>
+      <Support_Phone></Support_Phone>
+      <General_Phone></General_Phone>
+      <Fax_Phone></Fax_Phone>
+    </Support_Info>
+  </Company_Info>
+
+  <Program_Info>
+    <Program_Name>ByteAgent for Windows</Program_Name>
+    <Program_Version>1.0.0</Program_Version>
+    <Program_Release_Month>07</Program_Release_Month>
+    <Program_Release_Day>15</Program_Release_Day>
+    <Program_Release_Year>2025</Program_Release_Year>
+    <Program_Cost_Dollars>15</Program_Cost_Dollars>
+    <Program_Cost_Other_Code>USD</Program_Cost_Other_Code>
+    <Program_Cost_Other>$15/month Early Bird, $20/month Regular</Program_Cost_Other>
+    <Program_Type>Shareware</Program_Type>
+    <Program_Release_Status>Major Update</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>Windows 10,Windows 11</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info>Initial Windows release of ByteAgent desktop application with 64+ professional tools and natural language interface</Program_Change_Info>
+    <Program_Specific_Category>System Utilities</Program_Specific_Category>
+    <Program_Category_Class>System Utilities::System Maintenance</Program_Category_Class>
+    <Program_System_Requirements>Windows 10 or later (64-bit), 4GB RAM recommended</Program_System_Requirements>
+    <File_Info>
+      <File_Size_Bytes>209715200</File_Size_Bytes>
+      <File_Size_K>204800</File_Size_K>
+      <File_Size_MB>200</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>Y</Has_Expire_Info>
+      <Expire_Count>100</Expire_Count>
+      <Expire_Based_On>Uses</Expire_Based_On>
+      <Expire_Other_Info>Free trial includes 100 requests per month</Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+      <Expire_Year></Expire_Year>
+    </Expire_Info>
+  </Program_Info>
+
+  <Program_Descriptions>
+    <English>
+      <Keywords>AI assistant, Windows, desktop automation, natural language, system tools, network analysis, security, file operations, ChatGPT, artificial intelligence, productivity, Windows 10, Windows 11</Keywords>
+      <Char_Desc_45>AI assistant for Windows using natural language</Char_Desc_45>
+      <Char_Desc_80>Natural language AI desktop assistant for Windows - no technical skills needed</Char_Desc_80>
+      <Char_Desc_250>ByteAgent for Windows is an AI assistant that anyone can use with simple, natural language commands. No technical knowledge required! Just ask it to do Windows tasks like "find my large files" or "check my system performance" and it handles everything automatically.</Char_Desc_250>
+      <Char_Desc_450>ByteAgent revolutionizes Windows computer interaction through natural language. Simply tell it what you want - "clean up my disk space", "check my network speed", "find duplicate files" - and ByteAgent executes complex Windows tasks automatically. Perfect for everyone from complete beginners to IT professionals. No PowerShell or command prompt knowledge needed!</Char_Desc_450>
+      <Char_Desc_2000>ByteAgent for Windows is a revolutionary AI desktop assistant that makes Windows computer tasks accessible to everyone through natural language conversation. Whether you're a complete beginner or an IT professional, ByteAgent understands what you want and executes complex Windows operations automatically.
+
+Simply tell ByteAgent what you need:
+• "Find all my large files taking up disk space"
+• "Test my internet connection and WiFi speed"
+• "Check what programs are slowing down my computer"
+• "Analyze this document or spreadsheet for me"
+• "Find security issues on my Windows system"
+• "Monitor my computer's CPU and memory usage"
+• "Clean up temporary files and optimize performance"
+
+No Technical Knowledge Required:
+ByteAgent translates your everyday language into sophisticated Windows operations. You don't need to learn PowerShell, Command Prompt, or Windows administration - just speak naturally!
+
+64+ Professional Windows Tools Built-In:
+• File Management: Find, organize, and analyze files using Windows APIs
+• Network Analysis: Test connections, check speeds, diagnose WiFi problems
+• Security Auditing: Scan for vulnerabilities, check Windows security settings
+• System Monitoring: Track performance, memory, CPU usage with Windows tools
+• Registry Analysis: Safe registry operations without manual editing
+• Process Management: Monitor and analyze running programs
+• Disk Optimization: Clean temporary files, find duplicates, manage storage
+
+Perfect For All Windows Users:
+• Home Users: Maintain your Windows PC easily without technical knowledge
+• Students: Organize files, documents, and optimize study computers
+• Small Business Owners: Monitor Windows systems without IT staff
+• Remote Workers: Keep work computers running smoothly
+• IT Professionals: Advanced Windows tools with simple natural language commands
+
+Windows-Optimized Features:
+• Native Windows integration with proper file associations
+• Windows 10 & 11 compatibility with modern UI guidelines
+• PowerShell integration behind the scenes (hidden from users)
+• Windows-specific tools for registry, services, and system management
+• Secure Windows workspace isolation using Windows security features
+
+Secure & Private:
+All operations run locally on your Windows computer in isolated workspaces. Your data never leaves your machine. Uses Windows built-in security features.
+
+Proprietary Software - All Rights Reserved
+Professional Windows software with ongoing updates and support.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://github.com/sebastianaldrin/byte-agent-releases</Application_Info_URL>
+      <Application_Order_URL>https://github.com/sebastianaldrin/byte-agent-releases/releases</Application_Order_URL>
+      <Application_Screenshot_URL>https://github.com/sebastianaldrin/byte-agent-releases/raw/main/screenshot.png</Application_Screenshot_URL>
+      <Application_Icon_URL>https://github.com/sebastianaldrin/byte-agent-releases/raw/main/screenshot.png</Application_Icon_URL>
+      <Application_XML_File_URL>https://github.com/sebastianaldrin/byte-agent-releases/raw/main/byteagent-windows.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/sebastianaldrin/byte-agent-releases/releases/latest/download/byteagent.exe</Primary_Download_URL>
+      <Secondary_Download_URL></Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+
+  <Permissions>
+    <Distribution_Permissions>ByteAgent for Windows is proprietary software. Distribution is permitted only through official channels. Unauthorized copying, modification, or redistribution is strictly prohibited.</Distribution_Permissions>
+    <EULA>PROPRIETARY SOFTWARE - ALL RIGHTS RESERVED
+
+This software is the exclusive property of Sebastian Aldrin and ByteAgent. All rights reserved.
+
+LICENSE TERMS:
+- This is proprietary software protected by copyright law
+- You may use this software only under the terms of your license agreement
+- Reverse engineering, decompilation, or disassembly is strictly prohibited
+- Unauthorized copying, modification, or distribution is illegal
+- Source code is confidential and proprietary
+- Commercial use requires proper licensing
+
+WINDOWS-SPECIFIC TERMS:
+- Software integrates with Windows system APIs and services
+- Uses Windows security features for workspace isolation
+- Compatible with Windows 10 and Windows 11 security requirements
+- Respects Windows User Account Control (UAC) settings
+
+WARRANTY DISCLAIMER:
+This software is provided "as is" without warranty of any kind. The author disclaims all warranties, express or implied, including but not limited to merchantability and fitness for a particular purpose.
+
+LIMITATION OF LIABILITY:
+In no event shall the author be liable for any damages arising from the use of this software.
+
+For licensing inquiries, contact the author.</EULA>
+  </Permissions>
+
+  <Affiliates>
+    <Affiliates_FORM_Fields_Required></Affiliates_FORM_Fields_Required>
+    <Affiliates_VERSION></Affiliates_VERSION>
+    <Affiliates_URL></Affiliates_URL>
+    <Affiliates_Information_Page></Affiliates_Information_Page>
+    <Affiliates_Avangate_Order_Page></Affiliates_Avangate_Order_Page>
+    <Affiliates_Other_Order_Page></Affiliates_Other_Order_Page>
+    <Affiliates_1st_Page></Affiliates_1st_Page>
+    <Affiliates_2nd_Page></Affiliates_2nd_Page>
+  </Affiliates>
+
+  <ASP>
+    <ASP_FORM_Fields_Required></ASP_FORM_Fields_Required>
+    <ASP_Member>N</ASP_Member>
+    <ASP_Member_Number></ASP_Member_Number>
+  </ASP>
+</XML_DIZ_INFO>
